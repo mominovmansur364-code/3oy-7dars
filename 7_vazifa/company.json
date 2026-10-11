@@ -1,0 +1,8 @@
+{
+  "kompaniya": "TechUz",
+  "xodimlar": [
+    {"ism": "Ali", "lavozim": "Dasturchi", "oylik": 5000},
+    {"ism": "Vali", "lavozim": "Dizayner", "oylik": 4000},
+    {"ism": "Hasan", "lavozim": "Dasturchi", "oylik": 5500}
+  ]
+}
